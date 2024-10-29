@@ -32,13 +32,12 @@ This document contains essential tech vocabulary to enhance your understanding o
 
 This section lists useful keyboard shortcuts to improve productivity when coding.
 
-## Common Shortcuts
+## Common Shortcuts(Edit/View Keyboard ShortCut Ctrl+K+S)
 
-- **Alt + Click**: Allows for multiple cursor placements in code editors.
-  
-- **Ctrl + Shift + L**: Select all occurrences of the current selection in many text editors.
+- **Alt + Click Multiple Spots**: Allowing you to make multiple edits simultaneously.(Ensure activated in Visual Studio at Selection>Switch to Alt+Click for Multi Cursor)
 
-- **Alt + Z**: Toggle word wrap in editors like Visual Studio Code.
+- **F2 + Click**: Rename multiple similar name identifiers simutanously.
+  //Old visual studio version has Ctrl + shift + L)
 
-- **Shift + Alt + F**: Format the selected code in many code editors, such as Visual Studio Code.
+- **Shift + Alt + F**: Format and auto-fix all code in code editor in Visual Studio Code.
 
